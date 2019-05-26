@@ -17,13 +17,13 @@
                     <key>kind</key>
                     <string>display-image</string>
                     <key>url</key>
-                    <string>http://192.168.1.213:8000/test1/1.png</string>
+                    <string>http://192.168.43.69:8000/test1/1.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
                     <string>full-size-image</string>
                     <key>url</key>
-                    <string>http://192.168.1.213:8000/test1/1.png</string>
+                    <string>http://192.168.43.69:8000/test1/1.png</string>
                 </dict>
             </array>
             <key>metadata</key>
